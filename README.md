@@ -27,7 +27,7 @@
 <a href="https://instagram.com/batuern0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmelih_" height="30" width="40" /></a>
 </p>
 
-    ### 🛠 Languages & Tools
+  🛠 Languages & Tools
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,c,js,html,css,git,&theme=dark" />
