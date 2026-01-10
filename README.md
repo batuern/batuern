@@ -19,20 +19,14 @@
 * 🔭 I’m currently working on the **SÜMOB/OBİS Grade Tracker** extension and **NLP** projects.
 * 🌱 I’m currently learning **Python, C# and Embedded Systems**.
 * 🐍 I'm leveling up my GitHub profile
+* - 📫 How to reach me: *batuhneren@gmail.com*
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/batuhan-eren-610975292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/batuhan-eren-610975292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhaneren" height="30" width="40" /></a>
+<a href="https://instagram.com/batuern0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmelih_" height="30" width="40" /></a>
+</p>
 
-  <a href="https://www.instagram.com/batuern0/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="mailto:batuhneren@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
 ### 📊 GitHub Stats
 <p align="center">
