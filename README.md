@@ -7,9 +7,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/batuern/batuern/output/github-contribution-grid-snake.gif" alt="snake animation" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/batuern/batuern/output/github-contribution-grid-snake.gif" alt="snake animation" />
+</p>
 
 ---
 
