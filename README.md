@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Batuhan%20Eren&fontSize=70" />
 
-  <h1>Selam 👋, Ben Batuhan Eren</h1>
-  <h3>Bilgisayar Mühendisliği Öğrencisi @ Selçuk Üniversitesi</h3>
+  <h1>Hi 👋, I'm Batuhan Eren</h1>
+  <h3>Computer Engineering Student @ Selçuk University</h3>
 </div>
+
 
 ---
 <picture>
