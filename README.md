@@ -20,6 +20,12 @@
 * 🌱 I’m currently learning **Python, C# and Embedded Systems**.
 * 🐍 I'm leveling up my GitHub profile
 * - 📫 How to reach me: *batuhneren@gmail.com*
+    ### 🛠 Languages & Tools
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,c,js,html,css,oracle,git,arduino&theme=dark" />
+  </a>
+</div>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
