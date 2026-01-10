@@ -21,7 +21,7 @@
 * 🐍 I'm leveling up my GitHub profile
 * - 📫 How to reach me: *batuhneren@gmail.com*
 
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/batuhan-eren-610975292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhaneren" height="30" width="40" /></a>
 <a href="https://instagram.com/batuern0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmelih_" height="30" width="40" /></a>
