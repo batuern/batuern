@@ -7,11 +7,9 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/batuern/batuern/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/batuern/batuern/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/batuern/batuern/output/github-contribution-grid-snake.gif?v=5" alt="github contribution grid snake animation">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/batuern/batuern/output/github-contribution-grid-snake.gif" alt="snake animation" width="100%" />
+</div>
 
 
 ---
