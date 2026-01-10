@@ -11,7 +11,6 @@
   <img src="https://raw.githubusercontent.com/batuern/batuern/output/github-contribution-grid-snake.gif" alt="snake animation" width="100%" />
 </div>
 
-
 ---
 
 ### 🚀 Hakkımda
@@ -19,3 +18,8 @@
 * 🌱 **Python, C# ve Gömülü Sistemler** dünyasını keşfediyorum.
 * 🐍 GitHub profilimi canlandırıyorum!
 
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuern&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=batuern&show_icons=true&locale=en&theme=vision-friendly-dark" />
+</p>
