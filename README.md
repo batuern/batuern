@@ -20,8 +20,10 @@
 * 🌱 I’m currently learning **Python, C# and Embedded Systems**.
 * 🐍 I'm leveling up my GitHub profile
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuern&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=batuern&show_icons=true&locale=en&theme=vision-friendly-dark" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batuern&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="batuern's github stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuern&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true" alt="batuern's top languages" />
+  </a>
 </p>
