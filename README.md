@@ -23,7 +23,7 @@
     ### 🛠 Languages & Tools
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,c,js,html,css,oracle,git,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cs,c,js,html,css,oracle,git,&theme=dark" />
   </a>
 </div>
 
