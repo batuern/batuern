@@ -15,10 +15,10 @@
 
 ---
 
-### 🚀 Hakkımda
-* 🔭 Şu an **SÜMOB/OBİS Not Takipçisi** eklentisi ve **NLP** projelerim üzerinde çalışıyorum.
-* 🌱 **Python, C# ve Gömülü Sistemler** dünyasını keşfediyorum.
-* 🐍 GitHub profilimi canlandırıyorum!
+### 🚀 About Me
+* 🔭 I’m currently working on the **SÜMOB/OBİS Grade Tracker** extension and **NLP** projects.
+* 🌱 I’m currently learning **Python, C# and Embedded Systems**.
+* 🐍 I'm leveling up my GitHub profile
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">
