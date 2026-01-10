@@ -16,9 +16,8 @@
 ---
 
 ### 🚀 About Me
-* 🔭 I’m currently working on the **SÜMOB/OBİS Grade Tracker** extension and **NLP** projects.
-* 🌱 I’m currently learning **Python, C# and Embedded Systems**.
-* 🐍 I'm leveling up my GitHub profile
+* 🔭  I’m currently working on Python  | AI & Machine Learning
+* 🌱 I’m currently learning Django Framework and LLM's
 * - 📫 How to reach me: *batuhneren@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
